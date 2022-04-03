@@ -4,6 +4,7 @@ digerakkan ke atas, bawah, kiri, dan kanan. Tujuan akhir pada permainan ini adal
 
 ## Requirement Program
 1. Python
+2. Package NumPy, dapat diinstall dengan menjalankan perintah ```pip install numpy``` pada terminal
 
 ## Cara menggunakan Program
 1. Buka terminal pada direktori folder src
