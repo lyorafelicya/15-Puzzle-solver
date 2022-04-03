@@ -6,8 +6,8 @@ digerakkan ke atas, bawah, kiri, dan kanan. Tujuan akhir pada permainan ini adal
 1. Python
 
 ## Cara menggunakan Program
-1. Masuk ke direktori folder src dan buka command prompt
-2. Jalankan file yang bernama main.py dengan menuliskan perintah ```python main.py``` pada command prompt
+1. Buka terminal pada direktori folder src
+2. Jalankan file yang bernama main.py dengan menuliskan perintah ```python main.py``` pada terminal
 3. Pilih metode input puzzle yang diinginkan
 4. Jika memilih input file, tuliskan nama file dari puzzle yang ingin diselesaikan, dengan .txt (perhatikan bahwa lokasi file harus berada di dalam folder test).
 5. Tekan enter dan program akan mulai melakukan pencarian solusi.
