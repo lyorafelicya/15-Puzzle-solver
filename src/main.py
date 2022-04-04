@@ -50,7 +50,7 @@ def Main():
         else:
             print("This puzzle is not solveable!")
             print()
-        cont = input("Do you want try another puzzle? (Y/N) : ")
+        cont = input("Do you want to try another puzzle? (Y/N) : ")
     print("Okay bye~ Thankyou!\n")
     
 if __name__ == "__main__":
